@@ -18,12 +18,12 @@ export default function Sidebar(props) {
         </Typography>
         <Typography style={{paddingLeft:10,marginTop:30,paddingRight:15}}>{description} </Typography>
         <Typography style={{paddingLeft:80}}>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IIT_Kharagpur_Old_Building_1951.jpg/220px-IIT_Kharagpur_Old_Building_1951.jpg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IIT_Kharagpur_Old_Building_1951.jpg/220px-IIT_Kharagpur_Old_Building_1951.jpg" alt="building" />
       
         </Typography>
         <p style={{fontSize:13,marginTop:10,paddingLeft:85}}>The office of the Hijli Detention Camp (photographed September 1951)</p>
         <Typography style={{paddingLeft:80}} > 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mars_Orbiter_Mission_-_India_-_ArtistsConcept.jpg/200px-Mars_Orbiter_Mission_-_India_-_ArtistsConcept.jpg"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mars_Orbiter_Mission_-_India_-_ArtistsConcept.jpg/200px-Mars_Orbiter_Mission_-_India_-_ArtistsConcept.jpg" alt="satellite"/>
         </Typography>
         <p style={{fontSize:14,marginTop:10,paddingLeft:85}}>Artist's rendering of the Mars Orbiter Mission 
         spacecraft.</p>
