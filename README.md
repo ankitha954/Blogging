@@ -1,6 +1,6 @@
 Click on this link to visit website =>https://deft-bublanina-e63ddd.netlify.app
 
-<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Blogging Website~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ >
+<~~~~~~~~~~~~~~~~~~~~~~~~ Blogging Website~~~~~~~~~~~~~~~~~~~~~~~~~~~ >
 Created by : Mallela Ankitha
 
 Project Description : -> Created a website where users can upload  their experiances. They can upload their experiences of travelling ,intrests in different fields.sideDrawer section is added with categories which going to give the details of different fields of posts that are addedin the blog.
